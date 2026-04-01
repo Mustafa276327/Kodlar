@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "agents": {
+    "alpaca": {
+      "model": "llama2:7b",
+      "timeout": 45,
+      "aktif": true,
+      "gorev_tipleri": ["analiz", "planlama"]
+    },
+    "starcoder": {
+      "model": "codellama:7b",
+      "timeout": 60,
+      "aktif": true,
+      "gorev_tipleri": ["kodlama", "uretim"]
+    },
+    "wizard": {
+      "model": "qwen2.5:7b",
+      "timeout": 60,
+      "aktif": true,
+      "gorev_tipleri": ["optimizasyon", "duzeltme"]
+    },
+    "llama": {
+      "model": "llama2:7b",
+      "timeout": 45,
+      "aktif": true,
+      "gorev_tipleri": ["kontrol", "dogrulama"]
+    },
+    "minigpt": {
+      "model": "phi:2.7b",
+      "timeout": 30,
+      "aktif": true,
+      "gorev_tipleri": ["hafiza", "kayit"]
+    }
+  },
+  "sistem": {
+    "max_paralel_gorev": 3,
+    "gorev_zamani": 300,
+    "log_seviye": "INFO"
+  }
+}

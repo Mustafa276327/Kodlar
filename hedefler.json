@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "hedef": "Botlarin kodlama yeteneklerini %30 artirmak",
+    "kategori": "kodlama",
+    "oncelik": "yuksek",
+    "durum": "aktif"
+  },
+  {
+    "id": 2,
+    "hedef": "Sistem performansini optimize etmek",
+    "kategori": "sistem",
+    "oncelik": "yuksek",
+    "durum": "aktif"
+  },
+  {
+    "id": 3,
+    "hedef": "Ogrendigi bilgileri kategorize etmek",
+    "kategori": "ogrenme",
+    "oncelik": "orta",
+    "durum": "aktif"
+  },
+  {
+    "id": 4,
+    "hedef": "Hata cozme yetenegini gelistirmek",
+    "kategori": "analiz",
+    "oncelik": "yuksek",
+    "durum": "aktif"
+  }
+]

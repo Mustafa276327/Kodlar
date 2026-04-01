@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "adi": "kodlama_1_20260330",
+    "tur": "kodlama",
+    "amac": "Kodlama tekniklerini \u00f6\u011frenip \u00f6\u011fretmek",
+    "durum": "calisiyor",
+    "kalite_puani": 50.0,
+    "basari_sayisi": 0,
+    "hata_sayisi": 0,
+    "kod_dosyasi": "/storage/emulated/0/OtonomYZ/Yardimcilar/kodlama_1_20260330/kodlama_1_20260330.py",
+    "olusturma": "2026-03-30T18:49:24.984690"
+  },
+  {
+    "id": 2,
+    "adi": "sistem_2_20260330",
+    "tur": "sistem",
+    "amac": "Sistem kaynaklar\u0131n\u0131 optimize etmek",
+    "durum": "calisiyor",
+    "kalite_puani": 50.0,
+    "basari_sayisi": 0,
+    "hata_sayisi": 0,
+    "kod_dosyasi": "/storage/emulated/0/OtonomYZ/Yardimcilar/sistem_2_20260330/sistem_2_20260330.py",
+    "olusturma": "2026-03-30T18:51:27.762066"
+  },
+  {
+    "id": 3,
+    "adi": "analiz_3_20260330",
+    "tur": "analiz",
+    "amac": "Performans verilerini analiz etmek",
+    "durum": "calisiyor",
+    "kalite_puani": 50.0,
+    "basari_sayisi": 0,
+    "hata_sayisi": 0,
+    "kod_dosyasi": "/storage/emulated/0/OtonomYZ/Yardimcilar/analiz_3_20260330/analiz_3_20260330.py",
+    "olusturma": "2026-03-30T18:55:18.076286"
+  },
+  {
+    "id": 4,
+    "adi": "sistem_4_20260330",
+    "tur": "sistem",
+    "amac": "Sistem kaynaklarini optimize etmek",
+    "durum": "calisiyor",
+    "kalite_puani": 50.0,
+    "basari_sayisi": 0,
+    "hata_sayisi": 0,
+    "kod_dosyasi": "/storage/emulated/0/OtonomYZ/Yardimcilar/sistem_4_20260330/sistem_4_20260330.py",
+    "olusturma": "2026-03-30T19:03:46.187358"
+  },
+  {
+    "id": 5,
+    "adi": "analiz_5_20260330",
+    "tur": "analiz",
+    "amac": "Performans verilerini analiz etmek",
+    "durum": "calisiyor",
+    "kalite_puani": 50.0,
+    "basari_sayisi": 0,
+    "hata_sayisi": 0,
+    "kod_dosyasi": "/storage/emulated/0/OtonomYZ/Yardimcilar/analiz_5_20260330/analiz_5_20260330.py",
+    "olusturma": "2026-03-30T19:21:52.710880"
+  }
+]

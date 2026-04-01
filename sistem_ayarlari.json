@@ -1,0 +1,12 @@
+{
+  "cpu_kullanimi": 70,
+  "ram_kullanimi": 5000,
+  "performans_modu": "performans",
+  "calisma_saatleri": {
+    "baslangic": "00:00",
+    "bitis": "24:59"
+  },
+  "ram_limit": 4096,
+  "calisma_saati_baslangic": "00:00",
+  "calisma_saati_bitis": "23:59"
+}

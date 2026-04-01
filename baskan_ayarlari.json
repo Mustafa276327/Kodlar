@@ -1,0 +1,10 @@
+{
+  "max_bot": 3,
+  "min_bot": 1,
+  "batarya_limit": 20,
+  "hata_duzelt": true,
+  "yeni_bot_uret": true,
+  "perf_suresi": 30,
+  "rapor_suresi": 3600,
+  "bot_timeout": 60
+}

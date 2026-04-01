@@ -1,0 +1,89 @@
+{
+  "tarih": "2026-04-01T18:44:14.275533",
+  "surum": "2.6.0",
+  "sistem": {
+    "cpu": 0,
+    "ram": 55.729535848871016,
+    "batarya": 43,
+    "sicaklik": 3.34,
+    "batarya_durum": "DISCHARGING"
+  },
+  "bot_sayisi": 5,
+  "aktif_bot": 0,
+  "ortalama_kalite": 50.0,
+  "toplam_basari": 0,
+  "toplam_hata": 0,
+  "restartlar": {},
+  "botlar": [
+    {
+      "adi": "kodlama_1_20260330",
+      "tur": "kodlama",
+      "kalite_puani": 50.0,
+      "basari_sayisi": 0,
+      "hata_sayisi": 0,
+      "calisma_suresi": 0
+    },
+    {
+      "adi": "sistem_2_20260330",
+      "tur": "sistem",
+      "kalite_puani": 50.0,
+      "basari_sayisi": 0,
+      "hata_sayisi": 0,
+      "calisma_suresi": 0
+    },
+    {
+      "adi": "analiz_3_20260330",
+      "tur": "analiz",
+      "kalite_puani": 50.0,
+      "basari_sayisi": 0,
+      "hata_sayisi": 0,
+      "calisma_suresi": 0
+    },
+    {
+      "adi": "sistem_4_20260330",
+      "tur": "sistem",
+      "kalite_puani": 50.0,
+      "basari_sayisi": 0,
+      "hata_sayisi": 0,
+      "calisma_suresi": 0
+    },
+    {
+      "adi": "analiz_5_20260330",
+      "tur": "analiz",
+      "kalite_puani": 50.0,
+      "basari_sayisi": 0,
+      "hata_sayisi": 0,
+      "calisma_suresi": 0
+    }
+  ],
+  "hedefler": [
+    {
+      "id": 1,
+      "hedef": "Botlarin kodlama yeteneklerini %30 artirmak",
+      "kategori": "kodlama",
+      "oncelik": "yuksek",
+      "durum": "aktif"
+    },
+    {
+      "id": 2,
+      "hedef": "Sistem performansini optimize etmek",
+      "kategori": "sistem",
+      "oncelik": "yuksek",
+      "durum": "aktif"
+    },
+    {
+      "id": 3,
+      "hedef": "Ogrendigi bilgileri kategorize etmek",
+      "kategori": "ogrenme",
+      "oncelik": "orta",
+      "durum": "aktif"
+    },
+    {
+      "id": 4,
+      "hedef": "Hata cozme yetenegini gelistirmek",
+      "kategori": "analiz",
+      "oncelik": "yuksek",
+      "durum": "aktif"
+    }
+  ]
+}
